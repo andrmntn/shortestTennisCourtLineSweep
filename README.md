@@ -9,6 +9,8 @@ Link to Online Graph Design: https://graphonline.ru/en/?graph=WWYHrfMYOVEHUYmY
 
 
 I came to the conclusion that the fastest path with minimal wasted distance looks as follows:
+<img width="300" alt="image" src="https://github.com/andrmntn/shortestLineSweep/assets/54849338/e89fe928-c21b-4a30-b5e7-8402addf6435">
+
 
 The minimal wasted distance is 10.5 Meters
 
