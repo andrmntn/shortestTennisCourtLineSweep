@@ -12,7 +12,8 @@ Link to Online Graph Design: https://graphonline.ru/en/?graph=WWYHrfMYOVEHUYmY
 
 
 I came to the conclusion that the fastest path with minimal wasted distance looks as follows:
-<img width="400" alt="image" src="https://github.com/andrmntn/shortestTennisCourtLineSweep/assets/54849338/70c52b4b-a2b2-47f1-ba43-a9aca0d54f53">
+<img width="400" alt="image" src="https://github.com/andrmntn/shortestTennisCourtLineSweep/assets/54849338/feefd5c9-33ff-4c31-813f-a3986481c72c">
+
 
 
 The minimal wasted distance is 8.21 Meters
