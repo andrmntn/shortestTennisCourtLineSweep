@@ -10,8 +10,9 @@ Link to Online Graph Design: https://graphonline.ru/en/?graph=WWYHrfMYOVEHUYmY
 
 
 
+
 I came to the conclusion that the fastest path with minimal wasted distance looks as follows:
-<img width="400" alt="optimal walking path" src="https://github.com/andrmntn/shortestLineSweep/assets/54849338/e89fe928-c21b-4a30-b5e7-8402addf6435">
+<img width="400" alt="image" src="https://github.com/andrmntn/shortestTennisCourtLineSweep/assets/54849338/70c52b4b-a2b2-47f1-ba43-a9aca0d54f53">
 
 
 The minimal wasted distance is 8.21 Meters
