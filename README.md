@@ -5,14 +5,17 @@ If you play Tennis regularly, you can probably relate. You are sweeping the Cour
 I modeled the tennis court as an undirected, weighted graph as follows:
 Link to Online Graph Design: https://graphonline.ru/en/?graph=WWYHrfMYOVEHUYmY
 
-<img width="400" alt= "Tennis Court modeled as a Graph" src="https://github.com/andrmntn/shortestLineSweep/assets/54849338/1305be5f-6546-4f2f-95d2-c78f80b6503a">
+<img width="400" alt= "Tennis Court modeled as a Graph" src="https://github.com/andrmntn/shortestTennisCourtLineSweep/assets/54849338/891faa13-17dc-4b91-a072-4924835328b5">
+
+
 
 
 
 I came to the conclusion that the fastest path with minimal wasted distance looks as follows:
-<img width="400" alt="optimal walking path" src="https://github.com/andrmntn/shortestLineSweep/assets/54849338/e89fe928-c21b-4a30-b5e7-8402addf6435">
+<img width="400" alt="image" src="https://github.com/andrmntn/shortestTennisCourtLineSweep/assets/54849338/feefd5c9-33ff-4c31-813f-a3986481c72c">
 
 
-The minimal wasted distance is 10.5 Meters
+
+The minimal wasted distance is 8.21 Meters
 
 Feel free to use my simple code for arbitrary graphs. :)
