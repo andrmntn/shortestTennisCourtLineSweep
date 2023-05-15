@@ -1,4 +1,4 @@
-# shortestLineSweep
+# Shortest Tennis Court Line Sweep
 
 ---
 If you play Tennis regularly, you can probably relate. You are sweeping the Court and are doing the lines, when you stop and ask yourself for a split-second, what the fastest and most efficent way would be to clean the lines. I recently asked myself the same question and decided to write a short script to calculate the shortest path.
